@@ -12,4 +12,4 @@ web link: https://pizza-ruivos.netlify.app/
 <li>JAVASCRIPT</li>
 </ul>
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/100448527/179062728-02d39452-c15d-4384-9602-1ead854a04b9.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/100448527/179063564-cab50a34-56c2-4aa2-886d-857cd910a05c.gif)
